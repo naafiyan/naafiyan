@@ -2,8 +2,8 @@
 
 I'm a senior at Brown University studying Computer Science
 - I'm an incoming Software Engineer 2 @ MongoDB
-- I’m have done hypertext and hypermedia research with Professor Andries van Dam
-- I eas a Head Teaching Assistant for CS15: Intro to Object-Oriented Programming at Brown University
+- I have done hypertext and hypermedia research with Professor Andries van Dam
+- I was a Head Teaching Assistant for CS15: Intro to Object-Oriented Programming at Brown University
 - I’m working on full-stack development, hypertext and hypermedia systems and, software engineering
 - Coursework: Computer Systems, Software Engineering, Data Structures and Algorithms, Deep Learning, Object-Oriented Programming, Linear Algebra
 - Pronouns: he/him/his
