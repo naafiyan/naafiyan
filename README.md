@@ -8,7 +8,7 @@ I'm a senior at Brown University studying Computer Science
 - Coursework: Computer Systems, Software Engineering, Data Structures and Algorithms, Deep Learning, Object-Oriented Programming, Linear Algebra
 - Pronouns: he/him/his
  
-[![My Skills](https://skillicons.dev/icons?i=java,c,ts,js,py,react,express,nodejs,mongodb,tensorflow,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,ts,js,py,react,express,nodejs,mongodb,tensorflow,git,rust)](https://skillicons.dev)
 
 
 
