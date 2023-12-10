@@ -7,7 +7,7 @@ I'm a senior at Brown University studying Computer Science
 - I was a Head Teaching Assistant for CS15: Intro to Object-Oriented Programming at Brown University
 - Coursework: Operating Systems, Compilers, Computer Systems, Software Engineering, Data Structures and Algorithms, Deep Learning, Object-Oriented Programming
  
-[![My Skills](https://skillicons.dev/icons?i=java,c,ts,js,py,react,express,nodejs,mongodb,tensorflow,git,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,ts,js,py,react,express,nodejs,mongodb,tensorflow,git)](https://skillicons.dev)
 
 
 
