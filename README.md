@@ -1,4 +1,4 @@
-### Hi, I'm Naafiyan (he/him)👋
+### Hi, I'm Naafiyan 👋
 
 I'm a senior at Brown University studying Computer Science
 - I'm an incoming Software Engineer 2 @ MongoDB
