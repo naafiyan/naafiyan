@@ -1,6 +1,6 @@
 ### Hi, I'm Naafiyan 👋
 
-I'm a senior at Brown University studying Computer Science
+I'm a senior at Brown University studying Computer Science with a focus on systems programming, computer architecture, and database management systems 
 - I'm an incoming Software Engineer 2 @ MongoDB (Query Optimization)
 - I'm currently a Head Teaching Assistant for CS33: Computer Systems at Brown University
 - I have done hypertext and hypermedia research with Professor Andries van Dam
