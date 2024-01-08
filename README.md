@@ -2,6 +2,7 @@
 
 I'm a senior at Brown University studying Computer Science with a focus on systems programming, computer architecture, and database management systems 
 - I'm an incoming Software Engineer @ MongoDB (Query Optimization)
+- Currently interested in exploring emulators and architecture (check out my [Chip8 Emulator](https://github.com/naafiyan/chip8-rs)!)
 - I was a Head Teaching Assistant for CS33: Computer Systems at Brown University and CS15: Intro to Object-Oriented Programming
 - Coursework: Operating Systems, Compilers, Computer Systems, Software Engineering, Data Structures and Algorithms, Deep Learning, Object-Oriented Programming
  
